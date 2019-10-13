@@ -1,0 +1,14 @@
+#userInput{
+    font-size: 24px; 
+    width: 170px;
+}
+
+#list{
+    width: 173px; 
+    padding-left: 72px; 
+    font-size: 24px;
+}
+
+#submit{
+    padding: 2px 20px 2px 20px
+}
